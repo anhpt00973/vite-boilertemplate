@@ -24,7 +24,7 @@ function App(): JSX.Element {
             </Route>
             <Route path="/">
               <main>
-                <EnterLot />
+                Home
               </main>
             </Route>
           </Switch>
